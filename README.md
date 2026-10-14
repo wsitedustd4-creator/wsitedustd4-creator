@@ -4,7 +4,9 @@
 
 ### 프로젝트 소개 
 1. 스마트 체형분석
-   REPO주소  :   
-   실행링크  : 
+   <img width="1280" height="767" alt="image" src="https://github.com/user-attachments/assets/36804539-603d-4dfc-bfa0-6f484c3461cc" />
+
+   REPO주소  :  https://github.com/wsitedustd4-creator/SMARTEXERCISES-    
+   실행링크  :  https://wsitedustd4-creator.github.io/SMARTEXERCISES-/#mirror    
 
    
