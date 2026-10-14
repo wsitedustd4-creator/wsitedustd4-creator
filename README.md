@@ -1,13 +1,10 @@
 ## Hi there 👋
 ### 안녕하세요 만나서 반갑습니다. 
-### 나는 지금 우송대학교 대학원에 재학중입니다. 
+### 나는 지금 우송대학교에 재학중입니다. 
 
-- 🔭 I’m currently studing on WSU Graduate school.
-- 🌱 I’m currently learning about AI 
-- 👯 I’m looking to collaborate on project.
-- 🤔 I’m looking for help with AI App.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 프로젝트 소개 
+1. 스마트 체형분석
+   REPO주소  :   
+   실행링크  : 
 
+   
